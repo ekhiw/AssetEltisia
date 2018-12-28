@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asset Eltisia</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_barcode_main_act">barcode</string>
+    <string name="btn_scan_main_act">Scan</string>
+    <string name="btn_search_main_act">Search</string>
+</resources>
